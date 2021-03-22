@@ -1,0 +1,13 @@
+Biggest take away:
+
+
+Bootstrap Grid
+
+How-to-get-set-components-side by side
+
+
+<div class="row">
+  <div class="col-lg-3">lg 3</div>
+  <div class="col-lg-6">lg 6</div>
+  <div class="col-lg-3">lg 3</div>
+</div>
