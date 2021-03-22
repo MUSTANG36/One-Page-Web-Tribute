@@ -1,0 +1,46 @@
+body{
+
+    background-color: gray;
+    min-width: 100%;
+    min-height: 100%;
+
+}
+.container-fluid{
+  padding:3% 15% 7% ;
+
+}
+
+
+.link-button{
+  margin: 5% 3% 5% 0%;
+}
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
+
+  #footer{
+    padding:2% 5%;
+    text-align: center;
+
+}
+/* 
+  // Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... } */
